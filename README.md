@@ -1,0 +1,1 @@
+Hello! Thank you for taking the time to peer at my rendition of 2048 in a Node environment. If you want to test out/add to this work in progress, clone this repo and run "node game.js" in your terminal. Enjoy!
